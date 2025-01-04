@@ -39,8 +39,7 @@ Hi there! 👋
 <div align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=DilanSriyantha&show_icons=true&theme=tokyonight" alt="GitHub Stats">  
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilanSriyantha&layout=compact&theme=tokyonight" alt="Top Languages">  
-</div>  
----
+</div> 
 
 📫 Connect with Me
 ---
