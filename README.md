@@ -1,16 +1,46 @@
 ## Hi there 👋
 
-<!--
-**DilanSriyantha/dilansriyantha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+🎓 Computer Science Undergraduate at SLIIT City Campus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Self-employed software and video game developer
+
+💡 My ultimate goal is to become a skilled video game engine developer.
+
+
+
+---
+
+💻 Tech Stack
+
+Programming Languages:
+C/C++, C#, Python, JavaScript/TypeScript
+
+Frameworks and Tools:
+.NET, Node.js, MinGW, CMake, Visual Studio, Unity, Unreal Engine 4, OpenGL
+
+Platforms:
+Linux, GNU
+
+
+
+---
+
+📈 GitHub Stats
+
+<a href="https://github.com/DilanSriyantha">  
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=DilanSriyantha&show_icons=true&theme=radical" />  
+</a>  
+<a href="https://github.com/DilanSriyantha">  
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilanSriyantha&layout=compact&theme=radical&langs_count=8" />  
+</a>  
+---
+
+📫 How to Reach Me
+
+Facebook
+
+LinkedIn
+
+📧 Gmail: dilans091@gmail.com
