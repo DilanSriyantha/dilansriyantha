@@ -2,7 +2,7 @@ Hi there! 👋
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DilanSriyantha/DilanSriyantha/main/assets/banner.gif" alt="Banner" width="800">
+  <img src="https://raw.githubusercontent.com/DilanSriyantha/DilanSriyantha/main/banner.gif" alt="Banner" width="250">
 </div> 
 
 🌟 About Me
