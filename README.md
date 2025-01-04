@@ -1,11 +1,8 @@
-Hi there! 👋 Welcome to My Profile
-
----
+Hi there! 👋
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/DilanSriyantha/DilanSriyantha/main/assets/banner.gif" alt="Banner" width="800">
-</div>  
----
+</div> 
 
 🌟 About Me
 
@@ -17,9 +14,6 @@ Hi there! 👋 Welcome to My Profile
 
 🎮 Passionate about gaming, coding, and problem-solving!
 
-
-
----
 
 🛠️ Tech Stack
 
@@ -33,7 +27,6 @@ Hi there! 👋 Welcome to My Profile
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">  
   <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal%20engine&logoColor=white" alt="Unreal Engine">  
 </div>  
----
 
 📊 GitHub Stats
 
@@ -41,14 +34,6 @@ Hi there! 👋 Welcome to My Profile
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=DilanSriyantha&show_icons=true&theme=tokyonight" alt="GitHub Stats">  
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilanSriyantha&layout=compact&theme=tokyonight" alt="Top Languages">  
 </div>  
----
-
-🏆 Achievements
-
-
-
-
----
 
 📫 Connect with Me
 
@@ -62,6 +47,4 @@ Hi there! 👋 Welcome to My Profile
   <a href="mailto:dilans091@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>  
-</div>  
-
----
+</div>
